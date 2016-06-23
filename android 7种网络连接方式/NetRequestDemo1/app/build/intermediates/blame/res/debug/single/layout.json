@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\xuan\\Desktop\\git demo\\NetRequestDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\http_client.xml",
+        "source": "C:\\Users\\xuan\\Desktop\\git demo\\NetRequestDemo1\\app\\src\\main\\res\\layout\\http_client.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuan\\Desktop\\git demo\\NetRequestDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\xuan\\Desktop\\git demo\\NetRequestDemo1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuan\\Desktop\\git demo\\NetRequestDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\volley_request.xml",
+        "source": "C:\\Users\\xuan\\Desktop\\git demo\\NetRequestDemo1\\app\\src\\main\\res\\layout\\volley_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuan\\Desktop\\git demo\\NetRequestDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\http_url_conn.xml",
+        "source": "C:\\Users\\xuan\\Desktop\\git demo\\NetRequestDemo1\\app\\src\\main\\res\\layout\\http_url_conn.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuan\\Desktop\\git demo\\NetRequestDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ok_http.xml",
+        "source": "C:\\Users\\xuan\\Desktop\\git demo\\NetRequestDemo1\\app\\src\\main\\res\\layout\\ok_http.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuan\\Desktop\\git demo\\NetRequestDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\imageloader_request.xml",
+        "source": "C:\\Users\\xuan\\Desktop\\git demo\\NetRequestDemo1\\app\\src\\main\\res\\layout\\imageloader_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuan\\Desktop\\git demo\\NetRequestDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xutil_request.xml",
+        "source": "C:\\Users\\xuan\\Desktop\\git demo\\NetRequestDemo1\\app\\src\\main\\res\\layout\\xutil_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuan\\Desktop\\git demo\\NetRequestDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\async_request.xml",
+        "source": "C:\\Users\\xuan\\Desktop\\git demo\\NetRequestDemo1\\app\\src\\main\\res\\layout\\async_request.xml"
+    }
+]

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\xuan\Desktop\git demo\NetRequestDemo1\app\libs\okhttp-2.5.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\xuan\Desktop\git demo\NetRequestDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-2.5.0_4182420bf354a0ac15f05bca162631017bed1a22\classes.dex" />
+    </item>
+    <item
+        jar="F:\BaiduYunDownload\adt-bundle-windows-x86_64_with_Android_5.0\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\xuan\Desktop\git demo\NetRequestDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_f4a3259dbb2424ff5868c0f3f89cede24814e329\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\xuan\Desktop\git demo\NetRequestDemo1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f8e626c8461ec42fde63cc26548fbdc3eb5f5f55">
+        <dex dex="C:\Users\xuan\Desktop\git demo\NetRequestDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_74b35fedecbe5cdd695abfb7eacb1e62aac99a61\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\xuan\Desktop\git demo\NetRequestDemo1\app\libs\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\xuan\Desktop\git demo\NetRequestDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.6.0_cfd5fbcead3e330c7755fa95505ea23623c0eef7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\xuan\Desktop\git demo\NetRequestDemo1\app\libs\xUtils-2.6.14.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="C:\Users\xuan\Desktop\git demo\NetRequestDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-2.6.14_1565e2fe088da73a66af01bd89523b7d4dd1f89e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\xuan\Desktop\git demo\NetRequestDemo1\app\libs\universal-image-loader-1.9.4.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="C:\Users\xuan\Desktop\git demo\NetRequestDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.4_5064f5f44e5288384e8396c044f989d070a138cb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\xuan\Desktop\git demo\NetRequestDemo1\app\libs\volly-1.0.11.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1c248dd8e8c23a3e77a29613a2872be50b680d39">
+        <dex dex="C:\Users\xuan\Desktop\git demo\NetRequestDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\2\volly-1.0.11_d2d801fd7209a255e9e6a039549b1b403db2f2c2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\xuan\Desktop\git demo\NetRequestDemo1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f9565a57e5f15ed30b9059fe65ea43480ac75b21">
+        <dex dex="C:\Users\xuan\Desktop\git demo\NetRequestDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d4543f5f2de517c5ccb5647bf6529081d5147d9f\classes.dex" />
+    </item>
+
+</items>

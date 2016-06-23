@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\xuan\\Desktop\\ZXingDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_back_press.png",
+        "source": "C:\\Users\\xuan\\Desktop\\ZXingDemo1\\app\\src\\main\\res\\drawable-hdpi\\btn_back_press.png"
+    },
+    {
+        "merged": "C:\\Users\\xuan\\Desktop\\ZXingDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\xuan\\Desktop\\ZXingDemo1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\xuan\\Desktop\\ZXingDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_back_normal.png",
+        "source": "C:\\Users\\xuan\\Desktop\\ZXingDemo1\\app\\src\\main\\res\\drawable-hdpi\\btn_back_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\xuan\\Desktop\\ZXingDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scan_light.png",
+        "source": "C:\\Users\\xuan\\Desktop\\ZXingDemo1\\app\\src\\main\\res\\drawable-hdpi\\scan_light.png"
+    }
+]

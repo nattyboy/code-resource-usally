@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\BaiduYunDownload\adt-bundle-windows-x86_64_with_Android_5.0\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\xuan\Desktop\ZXingDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_f4a3259dbb2424ff5868c0f3f89cede24814e329\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\xuan\Desktop\ZXingDemo1\app\libs\core-3.0.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="fb52cf43975eb06d1696b341b5b7d8e40e8a59e5">
+        <dex dex="C:\Users\xuan\Desktop\ZXingDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\2\core-3.0.0_88528693aede58bee59ae2f3afb428687ef190b5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\xuan\Desktop\ZXingDemo1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b347028d54e603556b366754ad213f8b12993555">
+        <dex dex="C:\Users\xuan\Desktop\ZXingDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fb2f2de9a3e063f6d1a257f7960ab030e9fa9fe9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\xuan\Desktop\ZXingDemo1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="43386858255be3109d7f0fb7b31cf368372cc1e5">
+        <dex dex="C:\Users\xuan\Desktop\ZXingDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5433f62a71297855bb29f8aee467a8883a4d3a1e\classes.dex" />
+    </item>
+
+</items>

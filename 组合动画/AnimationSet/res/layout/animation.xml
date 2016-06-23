@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="28dp"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/alpha_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="buttonListener"
+            android:text="透明度改变" />
+
+        <Button
+            android:id="@+id/rotate_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="buttonListener"
+            android:text="旋转动画" />
+
+        <Button
+            android:id="@+id/scale_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="buttonListener"
+            android:text="缩放动画" />
+
+        <Button
+            android:id="@+id/translate_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="buttonListener"
+            android:text="移动动画" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayout1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="56dp"
+        android:src="@drawable/ic_launcher" />
+
+</RelativeLayout>

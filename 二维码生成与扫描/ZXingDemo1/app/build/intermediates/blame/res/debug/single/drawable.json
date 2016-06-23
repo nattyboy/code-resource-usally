@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\xuan\\Desktop\\ZXingDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_main_button.xml",
+        "source": "C:\\Users\\xuan\\Desktop\\ZXingDemo1\\app\\src\\main\\res\\drawable\\selector_main_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuan\\Desktop\\ZXingDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_main_imageview.xml",
+        "source": "C:\\Users\\xuan\\Desktop\\ZXingDemo1\\app\\src\\main\\res\\drawable\\shape_main_imageview.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuan\\Desktop\\ZXingDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_main_edit.xml",
+        "source": "C:\\Users\\xuan\\Desktop\\ZXingDemo1\\app\\src\\main\\res\\drawable\\shape_main_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuan\\Desktop\\ZXingDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_main_button.xml",
+        "source": "C:\\Users\\xuan\\Desktop\\ZXingDemo1\\app\\src\\main\\res\\drawable\\shape_main_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuan\\Desktop\\ZXingDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_capture_back.xml",
+        "source": "C:\\Users\\xuan\\Desktop\\ZXingDemo1\\app\\src\\main\\res\\drawable\\selector_capture_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\xuan\\Desktop\\ZXingDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_main_title.xml",
+        "source": "C:\\Users\\xuan\\Desktop\\ZXingDemo1\\app\\src\\main\\res\\drawable\\shape_main_title.xml"
+    }
+]

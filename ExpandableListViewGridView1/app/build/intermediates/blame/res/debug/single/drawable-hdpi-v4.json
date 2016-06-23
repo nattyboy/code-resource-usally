@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\xuan\\Desktop\\git demo\\ExpandableListViewGridView1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\channel_expandablelistview_bg.9.png",
+        "source": "C:\\Users\\xuan\\Desktop\\git demo\\ExpandableListViewGridView1\\app\\src\\main\\res\\drawable-hdpi\\channel_expandablelistview_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xuan\\Desktop\\git demo\\ExpandableListViewGridView1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\xuan\\Desktop\\git demo\\ExpandableListViewGridView1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\xuan\\Desktop\\git demo\\ExpandableListViewGridView1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\channel_expandablelistview_top_icon.png",
+        "source": "C:\\Users\\xuan\\Desktop\\git demo\\ExpandableListViewGridView1\\app\\src\\main\\res\\drawable-hdpi\\channel_expandablelistview_top_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\xuan\\Desktop\\git demo\\ExpandableListViewGridView1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\channel_expandablelistview_bottom_icon.png",
+        "source": "C:\\Users\\xuan\\Desktop\\git demo\\ExpandableListViewGridView1\\app\\src\\main\\res\\drawable-hdpi\\channel_expandablelistview_bottom_icon.png"
+    }
+]
